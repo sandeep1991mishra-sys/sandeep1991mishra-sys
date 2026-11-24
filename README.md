@@ -111,7 +111,9 @@ Currently focused on building reusable Terraform modules, Azure infrastructure s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1991mishra-sys&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+### 🐍 Contribution Graph
 
+![Snake animation](https://raw.githubusercontent.com/sandeep1991mishra-sys/sandeep1991mishra-sys/output/github-contribution-grid-snake.svg)
 ### 🤝 Let's Connect
 
 I'm always interested in connecting with cloud engineers, DevOps professionals, and technology enthusiasts.
