@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="./github-profile-banner.png" width="100%" alt="Sandeep Mishra - Senior Azure Cloud and DevSecOps Engineer">
+</p>
+
+---
+
 # Hi, I'm Sandeep Mishra 👋
 
 ### Senior Azure Cloud & DevSecOps Engineer | Cloud Infrastructure | Infrastructure as Code | Automation
