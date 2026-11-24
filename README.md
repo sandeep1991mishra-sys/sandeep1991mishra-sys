@@ -135,6 +135,19 @@ I'm always interested in connecting with cloud engineers, DevOps professionals, 
 
 ---
 
+<p align="center">
+  <a href="https://github.com/sandeep1991mishra-sys">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="www.linkedin.com/in/sandeepmishra1991">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandeep1991mishra-sys&label=Profile%20Views&color=0078D4&style=flat" />
+</p>
+
 ⭐ Feel free to explore my repositories and follow my journey in Cloud, DevOps, and DevSecOps engineering.
 
 **Building. Automating. Securing. Learning.**
